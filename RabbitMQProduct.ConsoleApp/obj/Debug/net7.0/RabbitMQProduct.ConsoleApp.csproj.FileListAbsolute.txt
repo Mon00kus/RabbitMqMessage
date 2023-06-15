@@ -1,0 +1,17 @@
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQProduct.ConsoleApp.exe
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQProduct.ConsoleApp.deps.json
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQProduct.ConsoleApp.runtimeconfig.json
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQProduct.ConsoleApp.dll
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQProduct.ConsoleApp.pdb
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.AssemblyInfo.cs
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.csproj.CopyComplete
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.dll
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\refint\RabbitMQProduct.ConsoleApp.dll
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.pdb
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\RabbitMQProduct.ConsoleApp.genruntimeconfig.cache
+C:\Users\rmonc\OneDrive\Escritorio\RabbitMQ\RabbitMQProduct.ConsoleApp\obj\Debug\net7.0\ref\RabbitMQProduct.ConsoleApp.dll
